@@ -25,6 +25,6 @@ Python analysis done on the Kaggle Medical Appointment No Show dataset
 
 <img width="758" height="450" alt="agedifference" src="https://github.com/niertrix/patient-no-show-analysis-py/blob/main/agedifference.png" />
 
-<p align="center" width="100%">
-<video src="https://github.com/niertrix/patient-no-show-analysis-py/blob/main/Demonstration.mp4" width="80%" controls></video>
-</p>
+<img width="758" height="450" alt="agedifference" src="https://github.com/niertrix/patient-no-show-analysis-py/blob/main/genderdistribution.png" />
+
+https://github.com/user-attachments/assets/009e0161-0c76-48ae-adb8-8629112b10eb
