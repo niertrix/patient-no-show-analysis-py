@@ -1,4 +1,4 @@
-# patient-no-show-analysis-py
+# Patient No-Show Analysis
 Python analysis done on the Kaggle Medical Appointment No Show dataset
 
 # Steps to clean the data
